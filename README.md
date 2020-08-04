@@ -5,7 +5,7 @@ Usage instructions:
 
 1- Download the source code
 
-2- Install Python 3 on your machine (I would recommend Linux)
+2- Install Python 3 on your machine (I would recommend Linux or at least Windows Sub-System)
 
 3- Install pip
 
