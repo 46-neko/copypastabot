@@ -11,7 +11,7 @@ Usage instructions:
 
 4- Run pip install --user praw and pip install --user python-telegram-bot
 
-5- Put your auth keys on th code (really important)
+5- Put your auth keys on the code (really important)
 
 6- Execute init.py using Python 3
 
