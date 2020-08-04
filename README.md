@@ -8,6 +8,6 @@ Usage instructions:
 3- Install pip
 4- Run pip install --user praw and pip install --user python-telegram-bot
 5- Put your auth keys on th code (really important)
-6- Execute ____init____.py using Python 3
+6- Execute init.py using Python 3
 7- ???????????
 8- Profit.
