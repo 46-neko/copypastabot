@@ -13,7 +13,7 @@ Usage instructions:
 
 5- Put your auth keys on the code (really important)
 
-6- Execute (underscore2x)init*(underscore2x).py using Python 3
+6- Execute (underscore2x)init(underscore2x).py using Python 3
 
 7- ???????????
 
